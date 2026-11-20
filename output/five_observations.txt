@@ -1,0 +1,7 @@
+Five Tournament Performance Observations
+
+1. The tournament has 600 matches, 8 teams and 79 players, with 12826 points scored in total.
+2. Sharks scored the most points (2025) and won 29 of 90 matches.
+3. Panthers has the best win percentage (38.9%). Draws count as matches played but not as wins.
+4. Player 43 is the top player with 381 points. The average player score per match is 21.4.
+5. Final matches have the highest average points (22.32) and Round 2 is the highest-scoring round (22.71). There are 0 unusually high single-match scores.

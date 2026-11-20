@@ -1,0 +1,11 @@
+Match_ID,Match_Date,Team,Opponent,Match_Duration_Mins,Type
+MA00076,2025-09-20,Sharks,Sharks,179.0,Longest
+MA00339,2026-09-06,Panthers,Falcons,179.0,Longest
+MA00357,2026-02-20,Warriors,Falcons,179.0,Longest
+MA00407,2025-01-21,Titans,Tigers,179.0,Longest
+MA00521,2025-02-15,Sharks,Lions,179.0,Longest
+MA00017,2025-05-21,Lions,Panthers,30.0,Shortest
+MA00019,2026-01-21,Panthers,Warriors,30.0,Shortest
+MA00098,2025-06-05,Warriors,Titans,30.0,Shortest
+MA00351,2026-08-24,Panthers,Panthers,30.0,Shortest
+MA00549,2026-04-05,Warriors,Panthers,30.0,Shortest
